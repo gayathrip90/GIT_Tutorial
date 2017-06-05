@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Tutorial Practice xml" verbose="1" thread-count="2" parallel="true">
+  <test name="Practice 1" >
+  
+
+   
+    <classes>
+      <class name="com.sreeram.gayathri.Maven.Test.Test_Tutorial">
+      
+      <methods>
+      <include name = "test1">
+      </include>
+       <include name = "test3">
+      </include>
+     
+      <exclude name = "test2">
+      </exclude>
+        <exclude name = "test4">
+      </exclude>
+      
+      </methods>
+      </class>
+    </classes>
+ </test>
+</suite>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tutorial Practice xml" duration-ms="92" started-at="2017-06-02T10:43:23Z" finished-at="2017-06-02T10:43:23Z">
+    <groups>
+    </groups>
+    <test name="Practice 1" duration-ms="92" started-at="2017-06-02T10:43:23Z" finished-at="2017-06-02T10:43:23Z">
+      <class name="com.sreeram.gayathri.Maven.Test.Test_Tutorial">
+        <test-method status="PASS" signature="beforetestFirst()[pri:0, instance:com.sreeram.gayathri.Maven.Test.Test_Tutorial@3532ec19]" name="beforetestFirst" is-config="true" duration-ms="17" started-at="2017-06-02T20:43:23Z" finished-at="2017-06-02T20:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetestFirst -->
+        <test-method status="PASS" signature="test3()[pri:0, instance:com.sreeram.gayathri.Maven.Test.Test_Tutorial@3532ec19]" name="test3" duration-ms="14" started-at="2017-06-02T20:43:23Z" finished-at="2017-06-02T20:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:com.sreeram.gayathri.Maven.Test.Test_Tutorial@3532ec19]" name="test1" duration-ms="18" started-at="2017-06-02T20:43:23Z" finished-at="2017-06-02T20:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- com.sreeram.gayathri.Maven.Test.Test_Tutorial -->
+    </test> <!-- Practice 1 -->
+  </suite> <!-- Tutorial Practice xml -->
+</testng-results>
