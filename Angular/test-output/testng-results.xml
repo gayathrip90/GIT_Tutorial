@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="74231" started-at="2017-06-05T08:37:53Z" finished-at="2017-06-05T08:39:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="74231" started-at="2017-06-05T08:37:53Z" finished-at="2017-06-05T08:39:07Z">
+      <class name="com.unisuper.assignment.Angular.Test.TestClass">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="6663" started-at="2017-06-05T18:37:53Z" finished-at="2017-06-05T18:37:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Add2Todo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="Add2Todo" duration-ms="788" started-at="2017-06-05T18:37:59Z" finished-at="2017-06-05T18:38:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Add2Todo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2381" started-at="2017-06-05T18:38:00Z" finished-at="2017-06-05T18:38:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="5104" started-at="2017-06-05T18:38:02Z" finished-at="2017-06-05T18:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AddTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AddTodo" duration-ms="419" started-at="2017-06-05T18:38:08Z" finished-at="2017-06-05T18:38:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2358" started-at="2017-06-05T18:38:08Z" finished-at="2017-06-05T18:38:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="4805" started-at="2017-06-05T18:38:10Z" finished-at="2017-06-05T18:38:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CompleteALLTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="CompleteALLTodo" duration-ms="486" started-at="2017-06-05T18:38:15Z" finished-at="2017-06-05T18:38:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteALLTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2368" started-at="2017-06-05T18:38:16Z" finished-at="2017-06-05T18:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="5217" started-at="2017-06-05T18:38:18Z" finished-at="2017-06-05T18:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CompleteTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="CompleteTodo" duration-ms="280" started-at="2017-06-05T18:38:23Z" finished-at="2017-06-05T18:38:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2357" started-at="2017-06-05T18:38:24Z" finished-at="2017-06-05T18:38:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="4831" started-at="2017-06-05T18:38:26Z" finished-at="2017-06-05T18:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CompleteTodoFilter()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="CompleteTodoFilter" duration-ms="562" started-at="2017-06-05T18:38:31Z" finished-at="2017-06-05T18:38:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CompleteTodoFilter -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2375" started-at="2017-06-05T18:38:31Z" finished-at="2017-06-05T18:38:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="6157" started-at="2017-06-05T18:38:34Z" finished-at="2017-06-05T18:38:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DeleteAllTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="DeleteAllTodo" duration-ms="718" started-at="2017-06-05T18:38:40Z" finished-at="2017-06-05T18:38:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteAllTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2402" started-at="2017-06-05T18:38:41Z" finished-at="2017-06-05T18:38:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="5026" started-at="2017-06-05T18:38:43Z" finished-at="2017-06-05T18:38:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="DeleteTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="DeleteTodo" duration-ms="788" started-at="2017-06-05T18:38:48Z" finished-at="2017-06-05T18:38:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2372" started-at="2017-06-05T18:38:49Z" finished-at="2017-06-05T18:38:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="4909" started-at="2017-06-05T18:38:51Z" finished-at="2017-06-05T18:38:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="EditExistingTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="EditExistingTodo" duration-ms="659" started-at="2017-06-05T18:38:56Z" finished-at="2017-06-05T18:38:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EditExistingTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2382" started-at="2017-06-05T18:38:57Z" finished-at="2017-06-05T18:38:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="beforeMethod" is-config="true" duration-ms="4995" started-at="2017-06-05T18:38:59Z" finished-at="2017-06-05T18:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="ReactivateCompleteTodo()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="ReactivateCompleteTodo" duration-ms="392" started-at="2017-06-05T18:39:04Z" finished-at="2017-06-05T18:39:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReactivateCompleteTodo -->
+        <test-method status="PASS" signature="AfterMethod()[pri:0, instance:com.unisuper.assignment.Angular.Test.TestClass@3532ec19]" name="AfterMethod" is-config="true" duration-ms="2416" started-at="2017-06-05T18:39:04Z" finished-at="2017-06-05T18:39:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+      </class> <!-- com.unisuper.assignment.Angular.Test.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
